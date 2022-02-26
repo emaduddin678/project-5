@@ -80,16 +80,62 @@ header{
 }
 /* banner part end  */
 /* department part start here  */
+/* .department{
+    top: 100px;
+    background-image: url('image/background.png'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
 .department h2{
     font-family: 'Work Sans', sans-serif; 
     font-weight: bold;
     font-size: 40px;
+    color: #252c3a;
 }
 .department p{
     font-family: 'Work Sans', sans-serif; 
     /* font-weight: bold; */
     font-size: 16px;
+    line-height: 24px;
+    color: #5a6e79;
 }
+/*      department cards      */
+.department .all-dp-box .card{
+    box-sizing: border-box;
+}
+.department .all-dp-box .card img{
+    width: 270px;
+    height: 270px;
+    padding: 30px;
+
+}
+.department .all-dp-box .dep-card-1{
+    background-color: #f9703a;
+}
+.department .all-dp-box .dep-card-2{
+    background-color: #80be41;
+}
+.department .all-dp-box .dep-card-3{
+    background-color: #ffb258;
+}
+.department .all-dp-box .card .card-text{
+    font-family: 'Work Sans', sans-serif; 
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    padding-bottom: 80px;
+}
+/* department cards complete  */
+.department .dp-mid {
+    /* background-image: url('image/dp-bg-left.png'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* height: 100vh; */
+}
+
+
 
 /* 
 font-family: 'Cairo', sans-serif;
