@@ -230,6 +230,7 @@ footer .top-footer{
     margin-bottom: 0;
 }
 #f-left-1 p{
+    color: #909090;
     font-size: 15px;
 }
 #f-left-1 .border-bottom{
@@ -248,7 +249,44 @@ footer .top-footer{
     cursor: pointer;
 }
 /* Edumodo part end  */
-
+/* footer left part end here   */
+/* footer left mid part start here ?? */
+#ftr-left-mid h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+}
+#ftr-left-mid p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+    line-height: 25px;
+    color: #909090;
+}
+/* footer left mid part end here  */
+/* footer right mid part start here  */
+#ftr-right-mid h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+#ftr-right-mid p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+    line-height: 25px;
+    color: #909090;
+}
+/* footer right mid part end here ? */
+/* right part start here  */
+#ftr-right h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+#ftr-right p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+    line-height: 25px;
+    color: #909090;
+}
 
 
 
